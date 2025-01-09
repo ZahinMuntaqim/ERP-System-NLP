@@ -4,7 +4,7 @@ Welcome to the **ERP-System-NLP** project! This system leverages Natural Languag
 
 ## Project Overview
 
-The goal of this project is to integrate NLP into an ERP system to facilitate intuitive interactions, such as querying information, generating reports, and automating decision-making processes.
+The goal of this project is to integrate NLP into an ERP system to facilitate intuitive interactions, such as querying information from user input, inserting data into MongoDB, and automating decision-making processes.
 
 The system consists of:
 1. **Frontend**: A user interface where users can interact with the ERP system.
