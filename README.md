@@ -13,7 +13,7 @@ The system consists of:
 
 ### Diagram
 
-![System Diagram](./fig/system_diagram.png)
+![System Diagram](./interface.png)
 
 This diagram illustrates the interaction between the different components of the ERP system.
 
